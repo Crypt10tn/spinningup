@@ -18,7 +18,7 @@
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
 import os
-import sys
+import sysl
 
 # Make sure spinup is accessible without going through setup.py
 dirname = os.path.dirname
